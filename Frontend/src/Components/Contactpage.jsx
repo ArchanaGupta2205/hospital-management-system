@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { IoCall } from "react-icons/io5";
 import { IoLocationSharp } from "react-icons/io5";

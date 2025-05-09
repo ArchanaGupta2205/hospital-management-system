@@ -1,6 +1,6 @@
 import React, { createElement, useEffect, useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 
 function Appointments() {

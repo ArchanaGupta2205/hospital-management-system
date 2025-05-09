@@ -4,7 +4,7 @@ import { GoPersonFill } from "react-icons/go";
 import { RiEmotionHappyLine } from "react-icons/ri";
 import { FaRegCalendarDays } from "react-icons/fa6";
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 
 function Hookcontent() {
     useEffect (() => {

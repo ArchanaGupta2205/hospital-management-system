@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css"
@@ -156,7 +156,7 @@ export default Navbar
 import React from 'react';
 import { useState,useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import styled from 'styled-Components';
+import styled from 'styled-components';
 
 function Navbar() {
   const [auth, setAuth] = useState(localStorage.getItem('signupuser'));

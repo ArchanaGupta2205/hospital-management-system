@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { RiTodoLine } from "react-icons/ri";
 import { FaTooth } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";

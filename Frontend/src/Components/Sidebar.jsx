@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { FaUserDoctor } from "react-icons/fa6";
 import { FaRegCalendarDays } from "react-icons/fa6";
 import { IoMdHome } from "react-icons/io";

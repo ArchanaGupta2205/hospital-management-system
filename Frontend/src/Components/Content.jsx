@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { FaTruckMedical  } from "react-icons/fa6";
 import { CiStethoscope  } from "react-icons/ci";
 

@@ -3,7 +3,7 @@ import { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { useParams } from 'react-router-dom'
 
-import styled from 'styled-Components'
+import styled from 'styled-components'
 
 function EditModal() {
     var useparam = useParams()

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import html2canvas from 'html2canvas'
 import jsPDF from 'jspdf'
 

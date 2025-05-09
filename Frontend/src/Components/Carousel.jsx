@@ -5,7 +5,7 @@ import { CgNotes } from "react-icons/cg";
 import { FaTruckMedical } from "react-icons/fa6";
 import { FaRegClock } from "react-icons/fa6";
 
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { Link } from 'react-router-dom';
 
 

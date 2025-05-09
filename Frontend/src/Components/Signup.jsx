@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import styled from 'styled-Components'
+import styled from 'styled-components'
 import { useState } from 'react'
 import Nav2 from './Nav2'
 import { toast } from 'react-toastify'

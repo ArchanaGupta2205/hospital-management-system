@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import { ToastContainer } from 'react-toastify';
-import { createGlobalStyle } from "styled-Components";
+import { createGlobalStyle } from "styled-components";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 
