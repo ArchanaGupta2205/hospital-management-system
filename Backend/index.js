@@ -344,8 +344,7 @@ server.post('/edit_employee/:id',async(req,res)=>{
     }
 
 })
-
-const port = 8001
+const port =  8001;
 server.listen(port, (err) => {
     if (err) throw err
     console.log('server is running on port:' + port);
